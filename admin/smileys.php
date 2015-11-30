@@ -1,8 +1,10 @@
 <?php
 // Smiley titles
+$locale['400'] = "Mevcut Y&#252;z &#304;fadeleri";
 $locale['401'] = "Y&#252;z &#304;fadesi Ekle";
 $locale['402'] = "Y&#252;z &#304;fadesi D&#252;zenle";
-$locale['400'] = "Mevcut Y&#252;z &#304;fadeleri";
+$locale['403'] = "Y&#252;z &#304;fadeleri";
+
 // Smiley messages
 $locale['410'] = "Y&#252;z ifadesi eklendi";
 $locale['411'] = "Y&#252;z ifadesi g&#252;ncellendi";
@@ -29,5 +31,3 @@ $locale['436'] = "Mevcut Y&#252;z &#304;fadesi Bulunamad&#305;.";
 $locale['437'] = "L&#252;tfen Y&#252;z &#304;fadesi kodu giriniz";
 $locale['438'] = "L&#252;tfen Y&#252;z &#304;fadesi se&#231;iniz";
 $locale['439'] = "L&#252;tfen Y&#252;z &#304;fadesi metni giriniz";
-
-?>

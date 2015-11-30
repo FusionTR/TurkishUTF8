@@ -50,4 +50,3 @@ $locale['470'] = "Ba&#351;l&#305;k bo&#351; b&#305;rak&#305;lamaz!";
 $locale['471'] = "Mesaj Bo&#351; B&#305;rak&#305;lamaz!";
 $locale['472'] = "G&#246;nderen ad&#305; bo&#351; b&#305;rak&#305;lamaz!";
 $locale['473'] = "G&#246;nderen emaili bo&#351; b&#305;rak&#305;lamaz!";
-?>

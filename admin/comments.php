@@ -14,4 +14,3 @@ $locale['431'] = "Sil";
 $locale['432'] = "Kullan&#305;c&#305; IP:";
 $locale['433'] = "Bu Yorumu Silmek &#304;stedi&#287;inizden Emin Misiniz?";
 $locale['434'] = "Yorum Bulunamad&#305;.";
-?>

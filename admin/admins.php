@@ -44,4 +44,3 @@ $locale['470'] = "Y&#246;netici Sil";
 $locale['471'] = "Bu Y&#246;neticiyi Silmek &#304;&#231;in L&#252;tfen Admin Parolas&#305;n&#305;z&#305; Giriniz";
 $locale['472'] = "Do&#287;rula";
 $locale['473'] = "&#304;ptal";
-?>

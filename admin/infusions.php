@@ -23,4 +23,3 @@ $locale['419'] = "Se&#231;enekler";
 $locale['420'] = "Versiyon";
 $locale['421'] = "Yazar";
 $locale['422'] = "Daha Fazla Eklenti &#304;ndir";
-?>

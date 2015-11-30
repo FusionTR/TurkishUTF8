@@ -27,4 +27,3 @@ $locale['463'] = "Bu klas&#246;r bo&#351;";
 $locale['464'] = "TinyMCE editor&#252; i&#231;in resim listesini g&#252;ncelle";
 // Popup Error/Warning Messages
 $locale['470'] = "Bu Resim Silinsin Mi?";
-?>

@@ -1,5 +1,8 @@
 <?php
 $locale['400'] = "S&#252;r&#252;m Y&#252;kseltme";
+$locale['enable_maint_warning'] = "Y&#252;kseltme i&#351;lemi s&#305;ras&#305;nda olu&#351;abilecek sorunlar&#305; &#246;nlemek amac&#305;yla devam etmeden &#246;nce web sitenizi bak&#305;m moduna al&#305;n&#305;z.<br />
+					Etkinle&#351;tirmek i&#231;in <a target='_blank' href='settings_security.php".$aidlink."'>G&#252;venlik Ayarlar&#305;na</a> gidebilir veya a&#351;a&#287;&#305;daki butona t&#305;klayarak yapabilirsiniz.";
+$locale['enable_maint'] = "Bak&#305;m Etkinle&#351;tirin";
 //No upgrade
 $locale['401'] = "S&#252;r&#252;m Y&#252;kseltmek &#304;&#231;in Veritaban&#305; G&#252;ncellemesi Bulunamad&#305;.";
 // Stage 6 - User Field Categories
@@ -43,4 +46,3 @@ $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
 $locale['UF'] = "Gizlilik";
 $locale['SEO'] = "Kal&#305;c&#305; Ba&#287;lant&#305;lar";
-?>

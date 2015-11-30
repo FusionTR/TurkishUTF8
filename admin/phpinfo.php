@@ -30,4 +30,3 @@ $locale['442'] = "Yaz&#305;lamaz";
 //PHPinfo
 $locale['450'] = "Detaylar";
 $locale['451'] = "Veri al&#305;namad&#305;. phpinfo() fonksiyonu kapat&#305;lm&#305;&#351; olabilir mi?";
-?>

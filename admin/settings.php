@@ -42,6 +42,9 @@ $locale['437'] = "Enable Bootstrap Responsive Framework";
 $locale['438'] = "Arama Motoru Dostu URL (SEF):";
 $locale['439'] = "Dost URL'leri Normalle&#351;tirmek:";
 $locale['440'] = "SEO Hata Ay&#305;klama Modu Etkinle&#351;tirme:";
+$locale['441'] = "Enable Entypo";
+$locale['442'] = "Enable Font-Awesome";
+
 // Time & Date Settings
 $locale['450'] = "Zaman & Tarih Ayarlar&#305;";
 $locale['451'] = "K&#305;sa tarih format&#305;:";
@@ -59,6 +62,7 @@ $locale['462'] = "Sunucu zaman dengesi";
 $locale['463'] = "Bunu server zaman&#305;n&#305; GMT 0 yapabilmek i&#231;in ayarlay&#305;n";
 $locale['464'] = "Varsay&#305;lan saat ayar&#305;";
 $locale['465'] = "Haftan&#305;n &#304;lk G&#252;n&#252;";
+
 // Forum Settings
 $locale['500'] = "Forum Ayarlar&#305;";
 $locale['501'] = "Son Aktif Forum Ba&#351;l&#305;klar&#305; Blo&#287;u:";
@@ -102,6 +106,7 @@ $locale['553'] = "G&#252;venlik Kodu G&#246;sterilsin mi?";
 $locale['557'] = "Yeni &#220;yeler Admin taraf&#305;ndan aktif edilsin mi?";
 $locale['558'] = "Kullan&#305;c&#305; S&#246;zle&#351;mesi Kullan&#305;ls&#305;n M&#305;?";
 $locale['559'] = "Kullan&#305;c&#305; S&#246;zle&#351;mesi";
+
 // Photo Gallery Settings
 $locale['600'] = "Resim Galerisi Ayarlar&#305;";
 $locale['601'] = "K&#252;&#231;&#252;k Resim Boyutu:";
@@ -113,17 +118,20 @@ $locale['606'] = "K&#252;&#231;&#252;k Resim S&#305;k&#305;&#351;t&#305;rma Meto
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Sat&#305;r Ba&#351;&#305;na D&#252;&#351;en Resim Say&#305;s&#305;:";
+$locale['609b'] = "Sat&#305;r Ba&#351;&#305;na D&#252;&#351;en Resim Say&#305;s&#305; (Admin):";
 $locale['610'] = "Her Sayfada G&#246;sterilecek Resim Say&#305;s&#305;:";
 $locale['611'] = "Resim Filigran&#305; (watermark) Aktif Olsun Mu?";
 $locale['612'] = "PNG Format&#305;nda Filigran Resmi";
 $locale['613'] = "Foto&#287;raflarda metin a&#231;&#305;klamas&#305; olsun mu?";
-$locale['614'] = "Albüm başlık rengi";
-$locale['615'] = "Albüm açıklama rengi";
-$locale['616'] = "Resim başlık rengi";
+$locale['614'] = "Alb&#252;m ba&#351;l&#305;k rengi";
+$locale['615'] = "Alb&#252;m a&#231;&#305;klama rengi";
+$locale['616'] = "Resim ba&#351;l&#305;k rengi";
 $locale['617'] = "Olu&#351;turulan Filigranlar Kaydedilsin Mi?";
 $locale['618'] = "Sunucu kullan&#305;m&#305;n&#305; d&#252;&#351;&#252;r&#252;r, ama daha &#231;ok disk alan&#305; gerektirir";
 $locale['619'] = "Mevcut Filigranlar&#305; Sil";
 $locale['620'] = "Mevcut Filigranlar Silinsin Mi?";
+$locale['621'] = "Resim Y&#252;kle";
+
 // Other Settings
 $locale['650'] = "&#199;e&#351;itli Ayarlar";
 $locale['651'] = "K&#246;t&#252; kelimeler listesi:";
@@ -162,8 +170,9 @@ $locale['682ML'] = "Dil Ayarlar&#305;";
 $locale['683ML'] = "&#199;oklu Dil Sistemini Aktifle&#351;tir";
 $locale['684ML'] = "Aktif Diller";
 $locale['685ML'] = "&#304;zin Verilen Dilleri Se&#231;in. <br /><b>L&#252;tfen Dikkat</b>: Bir dili kald&#305;rman&#305;n; &#246;zel site ba&#287;lant&#305;lar&#305;n&#305;, kategorileri ve kald&#305;rd&#305;&#287;&#305;n&#305;z dile ait i&#231;erikleri tamamen kald&#305;raca&#287;&#305;n&#305; unutmay&#305;n&#305;z. ";
-$locale['669'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek haber miktar&#305;";
-$locale['669b'] = "BSayfa ba&#351;&#305;na g&#246;sterilecek blog miktar&#305;";
+$locale['669'] = "Haberler";
+$locale['669b'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek blog miktar&#305;";
+$locale['669c'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek haber miktar&#305;";
 $locale['670'] = "Tek say&#305; olmal&#305;d&#305;r";
 $locale['671'] = "Yorum sistemi aktifle&#351;tirilsin mi?";
 $locale['672'] = "Oylama sistemi aktifle&#351;tirilsin mi?";
@@ -188,19 +197,18 @@ $locale['690'] = "Evet (Sadece y&#246;neticilere)";
 $locale['691'] = "&#220;yelerin kullan&#305;c&#305; adlar&#305;n&#305; de&#287;i&#351;tirmelerine izin verilsin mi?";
 $locale['692'] = "G&#252;venlik Kodu (Captcha) Ayarlar&#305;";
 $locale['693'] = "G&#252;venlik Kodu";
-$locale['694'] = "Recaptcha herkese a&#231;&#305;k anahtar&#305; (public key) (<a href='https://www.google.com/recaptcha/admin/create' title='Bu adresten keyinizi alabilirsiniz'>Bu adresten keyinizi alabilirsiniz</a>)";
-$locale['695'] = "Recaptcha &#246;zel anahtar&#305; (private key)";
-$locale['696'] = "L&#252;tfen herkese a&#231;&#305;k ve &#246;zel reCAPTCHA anahtarlas&#305;nz&#305;n ikisini de girin!";
-$locale['697'] = "L&#252;tfen Renk t&#252;r&#252; se&#231;in";
-$locale['697r'] = "K&#305;rm&#305;z&#305;";
-$locale['697b'] = "Cams&#305; Siyah";
-$locale['697c'] = "Temiz";
-$locale['697w'] = "Beyaz";
+$locale['694'] = "PHP Y&#252;r&#252;t&#252;lmesine &#304;zin";
+$locale['695'] = "<strong> Uyar&#305;! </strong> SQL g&#252;venlik a&#231;&#305;klar&#305; sistemi a&#231;&#305;lacakt&#305;r PHP y&#252;r&#252;tme izin veriliyor.";
+
+$locale['913'] = "Comments per page";
+
+// Removed Recaptcha
 $locale['698'] = "SMTP Kimlik Do&#287;rulamasi?";
 $locale['699'] = "Giri&#351; Y&#246;ntemi";
 $locale['699b'] = "Her &#304;kiside";
 $locale['699e'] = "E-Posta";
 $locale['699f'] = "Y&#252;klenen dosyalar&#305; MIME t&#252;r&#252; i&#231;in kontrol edin?";
+
 // Private Message Settings
 $locale['700'] = "&#214;zel Mesaj Ayarlar&#305;";
 $locale['701'] = "Gelen Kutusu Mesaj Limiti:";
@@ -212,15 +220,19 @@ $locale['708'] = "&#220;yelerin De&#287;i&#351;tiremeyece&#287;i Ayarlar";
 $locale['709'] = "E-mail bildirimi Kullan&#305;ls&#305;n m&#305;?";
 $locale['710'] = "G&#246;nderilen &#214;.M.'lar Kay&#305;t Edilsin mi?";
 $locale['711'] = "Not: Ki&#351;isel &#252;ye se&#231;eneklerini &#252;yeler ayarlayabilirler. Buradaki ayarlar&#305; &#252;yeler de&#287;i&#351;tiremeyecektir, buradaki ayr&#305;nt&#305;l&#305; se&#231;enekler sadece y&#246;netici i&#231;indir.";
+
 // Save Settings
 $locale['750'] = "Ayarlar&#305; Kaydet";
+
 // Other Settings
 $locale['800'] = "Forumlar&#305; temizle";
 $locale['801'] = "Silinen Mesaj Say&#305;s&#305;: ";
 $locale['802'] = "Silinen Ba&#351;l&#305;k Say&#305;s&#305;: ";
 $locale['803'] = "Silinen Ek Dosya Say&#305;s&#305;: ";
+
 // Privacy policy
 $locale['820'] = "Gizlilik Politikas&#305;";
+
 // Banners Settings
 $locale['850'] = "Ba&#351;l&#305;k (Banner) Ayarlar&#305;";
 $locale['851'] = "Ba&#351;l&#305;k Kodu 1";
@@ -228,17 +240,12 @@ $locale['852'] = "Ba&#351;l&#305;k Kodu 2";
 $locale['853'] = "Admin Parolas&#305;:";
 $locale['854'] = "Ba&#351;l&#305;k Kodlar&#305;n&#305; Kaydet";
 $locale['855'] = "Ba&#351;l&#305;k Kodlar&#305;n&#305; &#214;nizle";
+
 // Settings Error
 $locale['900'] = "Ayarlar G&#252;ncellendi";
 $locale['901'] = "Veritaban&#305;na i&#351;lemede bir hata olu&#351;tu: Ayarlar G&#252;ncellenemedi!";
 $locale['902'] = "Site hostu k&#305;sm&#305; bo&#351; b&#305;rak&#305;lamaz!";
-// Item per Page
-$locale['910'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek makale miktar&#305;";
-$locale['911'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek dosya miktar&#305;";
-$locale['912'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek link miktar&#305;";
-$locale['913'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek yorum miktar&#305;";
-$locale['914'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek forum ba&#351;l&#305;&#287;&#305;";
-$locale['915'] = "Sayfa ba&#351;&#305;na g&#246;sterilecek forum mesaj&#305;";
+
 // Downloads Settings
 $locale['930'] = "Azami dosya y&#252;kleme boyutu:";
 $locale['931'] = "Byte cinsinden y&#252;klenebilecek azami boyuttaki dosya boyutunu girin";
@@ -249,6 +256,8 @@ $locale['935'] = "Geni&#351;lik x Y&#252;kseklik";
 $locale['936'] = "Azami ekran g&#246;r&#252;nt&#252;s&#252; dosya boyutu (byte):";
 $locale['937'] = "Azami ekran g&#246;r&#252;nt&#252;s&#252; k&#252;&#231;&#252;k resim &#231;&#246;z&#252;n&#252;rl&#252;&#287;&#252;:";
 $locale['938'] = "Ekran g&#246;r&#252;nt&#252;s&#252; aktifle&#351;tirilsin mi?";
+$locale['939'] = "Sayfa Ba&#351;&#305;na Dosya Say&#305;s&#305;";
+
 // Blog & News Settings
 $locale['950'] = "Resim Y&#252;kleme";
 $locale['951'] = "Resim linki:";
@@ -262,6 +271,7 @@ $locale['957'] = "Ana sayfadaki resim";
 $locale['958'] = "Haberin devam&#305;ndaki resim";
 $locale['959'] = "Y&#252;klenen resim";
 $locale['960'] = "Kategori resmi";
+
 // User Management
 $locale['1001'] = "Avatar &#214;l&#231;e&#287;i:";
 $locale['1002'] = "Deaktivasyon sistemi a&#231;&#305;k";
@@ -278,10 +288,12 @@ $locale['1012'] = "&#220;yeyi anonim hale d&#246;n&#252;&#351;t&#252;r";
 $locale['1013'] = "&#220;yeyi ve girdilerini sil";
 $locale['1014'] = "Kullan&#305;c&#305;lar ayn&#305; anda birden fazla yerden giri&#351; yapabilsin mi (2. bir giri&#351;te ilki otomatik &#231;&#305;k&#305;&#351; yapar)?";
 $locale['1014a'] = "G&#252;venlik a&#231;&#305;s&#305;ndan kapal&#305; kalmas&#305; &#246;nerilir";
+
 // Social integration
 $locale['1030'] = "Sosyal a&#287;lar i&#231;in OpenGraph meta etiketleri olu&#351;turun";
 $locale['1031'] = "BB Kodlar&#305; URL indeksine izin ver";
 $locale['1032'] = "Kullan&#305;c&#305; Profilleri URL indeksine izin ver";
+
 // Date format options (you can add/delete lines)
 // More info at: http://php.net/manual/en/function.strftime.php
 $locale['dateformats'][] = "%m/%d/%Y";
@@ -305,12 +317,11 @@ $locale['dateformats'][] = "%d %B %Y %H:%M";
 $locale['dateformats'][] = "%B %d %Y %H:%M:%S";
 $locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['error_rate'] = 'Please enter a Rate.';
+$locale['error_rate'] = 'L&#252;tfen Bir Oran&#305; Giriniz.';
 $locale['error_type'] = 'Uzant&#305; T&#252;r&#252; giriniz.';
 $locale['error_width'] = 'L&#252;tfen Geni&#351;lik giriniz';
 $locale['error_height'] = 'L&#252;tfen Y&#252;kseklik giriniz.';
 $locale['error_value'] = 'L&#252;tfen bir de&#287;er girin.';
-
 $locale['blog_description'] = "Blog sistemi i&#231;in yap&#305;land&#305;rma ayarlar&#305;";
 $locale['news_description'] = "Haber sistemi i&#231;in yap&#305;land&#305;rma ayarlar&#305;";
 $locale['ipp_description'] = "The configuration settings for default numbers of results items to be listed";
@@ -341,4 +352,6 @@ $locale['register_settings'] = 'Kay&#305;t Ayarlar&#305;';
 $locale['security_settings'] = 'G&#252;venlik Ayarlar&#305;';
 $locale['time_settings'] = 'Saat Tarih Ayarlar&#305;';
 $locale['user_settings'] = 'Kullan&#305;c&#305; Y&#246;netimi Ayarlar&#305;';
-?>
+
+$locale['securimage'] = "G&#252;venlik Resmi";
+$locale['securimage2'] = "G&#252;venlik Resmi v.2";

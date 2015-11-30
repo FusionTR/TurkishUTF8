@@ -3,4 +3,3 @@ $locale['bb_flash_description'] = "Verilen URLdeki Flash Dosyas&#305;n&#305; G&#
 $locale['bb_flash_usage'] = "Flash animasyonu URL";
 $locale['bb_flash_width'] = "Geni&#351;lik piksel de&#287;eri";
 $locale['bb_flash_height'] = "Y&#252;kseklik piksel de&#287;eri";
-?>

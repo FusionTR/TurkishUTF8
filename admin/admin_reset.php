@@ -44,4 +44,3 @@ $locale['420'] = "Ba&#351;ar&#305;l&#305;";
 $locale['421'] = "Sebep";
 $locale['422'] = "";
 $locale['423'] = "Sebep Belirtilmemi&#351;.";
-?>

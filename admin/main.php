@@ -8,10 +8,10 @@ $locale['ac03'] = "Sistem Y&#246;netimi";
 $locale['ac04'] = "Se&#231;enekler";
 $locale['ac05'] = "Mod&#252;ller";
 $locale['ac10'] = "Y&#246;netici G&#246;sterge Paneli";
+$locale['202'] = "Kullan&#305;c&#305; Profil Yap&#305;land&#305;rmas&#305;";
 
-$locale['201'] = "Y&#246;neticiler";
-$locale['202'] = "Kullan&#305;c&#305; Profili Yap&#305;land&#305;rmas&#305;";
-
+$locale['AD'] = "Y&#246;neticiler";
+$locale['AWPR'] = "Y&#246;netici Parola S&#305;f&#305;rlama";
 $locale['AC'] = "Makale Kategorileri";
 $locale['A'] = "Makaleler";
 $locale['BLOG'] = "Bloglar";
@@ -113,4 +113,4 @@ $locale['282'] = "Dil Anahtar&#305;";
 $locale['283'] = "Mod&#252;ller";
 $locale['284'] = "Y&#252;kl&#252; Mod&#252;l Bulunamad&#305;";
 $locale['285'] = "Mod&#252;lleri Y&#246;net";
-?>
+$locale['286'] = "&#214;nerileri &#304;ncele";

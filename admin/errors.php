@@ -24,4 +24,3 @@ $locale['451'] = "&#199;&#246;z&#252;ld&#252;";
 $locale['452'] = "Yok say&#305;ld&#305;";
 $locale['453'] = "Uygula";
 $locale['454'] = "&#214;nem Derecesi";
-?>

@@ -9,8 +9,8 @@ $locale['405'] = "Seviye";
 $locale['406'] = "Se&#231;enekler";
 $locale['407'] = "Mevcut Bloklar";
 $locale['408'] = "Blok Ekle";
-$locale['409'] = "Blok Düzenle";
-$locale['410'] = "You can drag and drop the panels across the panels window to switch positions or shuffle the panel ordering.";
+$locale['409'] = "Blok D&#252;zenle";
+$locale['410'] = "Panellerin S&#305;ralamas&#305;n&#305; kar&#305;&#351;t&#305;rmak veya konumlar&#305;n&#305; de&#287;i&#351;tirmek i&#231;in Panelleri s&#252;r&#252;kleyerek b&#305;rakabilirsiniz.";
 // Panel Settings
 $locale['420'] = "Sol";
 $locale['421'] = "&#220;st Orta";
@@ -57,6 +57,7 @@ $locale['464'] = "&#350;u Sayfalarda G&#246;sterme";
 $locale['465'] = "&#350;u Sayfalarda G&#246;ster";
 $locale['466'] = "Blok Dili:";
 $locale['467'] = "Ekran&#305; Herzaman Ana Sayfada G&#246;ster";
+$locale['468'] = "Panel Tipi";
 // Update/Add new Panel Errors
 $locale['470'] = "Blok &#304;smi Tan&#305;mlanmam&#305;&#351;";
 $locale['471'] = "Blok &#304;smi Kullan&#305;l&#305;yor";
@@ -82,4 +83,3 @@ $locale['603'] = "Kullan&#305;lan Bloklar";
 $locale['604'] = "Bloklar";
 $locale['605'] = "Blok";
 $locale['606'] = "Site &#304;&#231;eri&#287;i";
-?>

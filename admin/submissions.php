@@ -131,4 +131,3 @@ $locale['660'] = "%s t&#252;m&#252; i&#231;in iptal edilmi&#351;tir.<br />Bu aya
 $locale['661'] = "Yorumlar";
 $locale['662'] = "Oylama";
 $locale['663'] = $locale['661']." ve ".$locale['662'];
-?>

@@ -146,4 +146,3 @@ $locale['618'] = "Veri kayb&#305;n&#305; &#246;nmelek i&#231;in dealtivasyon se&
 $locale['619'] = "Bunu buradan ger&#231;ekle&#351;tirebilirsiniz.";
 $locale['620'] = "anonim hale d&#246;n&#252;&#351;t&#252;r";
 $locale['621'] = "&#304;naktif &#252;yelerin otomatik deaktivasyonu.";
-?>

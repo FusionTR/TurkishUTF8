@@ -13,4 +13,3 @@ $locale['420'] = "robots.txt dosyan&#305;z&#305; d&#252;zenleyin";
 $locale['421'] = "robots.txt dosyas&#305; hakk&#305;nda detayl&#305; bilgi ve de yard&#305;m&#305; buradan edinebilirsiniz.";
 $locale['422'] = "Kaydet";
 $locale['423'] = "Varsay&#305;lana d&#246;n";
-?>

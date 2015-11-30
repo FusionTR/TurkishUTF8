@@ -45,4 +45,3 @@ $locale['461'] = "Zorunlu Alanlar";
 $locale['480'] = "Tamir Edilen Yedeklemeler";
 $locale['481'] = "Dosya Ad&#305;:";
 $locale['481b'] = "L&#252;tfen Dosya Ad&#305; Giriniz";
-?>

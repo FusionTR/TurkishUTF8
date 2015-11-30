@@ -40,4 +40,3 @@ $locale['462'] = "T&#252;m &#220;yeleri Gruptan &#199;&#305;kart";
 $locale['463'] = "Bu Grupta &#220;ye Bulunamad&#305;.";
 // Error Messages
 $locale['464'] = "L&#252;tfen Grup Ad&#305; Giriniz.";
-?>

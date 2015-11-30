@@ -26,4 +26,3 @@ $locale['preview'] = "&#214;nizleme";
 $locale['word_count'] = "Karakter Say&#305;s&#305;";
 $locale['error_preview'] = "&#214;nizleme Hatas&#305;";
 $locale['error_preview_text'] = "&#214;nizleme ge&#231;ici olarak m&#252;mk&#252;n de&#287;il. Sayfay&#305; yeniden y&#252;kleyin ve tekrar deneyin.";
-?>

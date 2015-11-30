@@ -22,5 +22,3 @@ $locale['417'] = "BB Kodlar&#305; &#199;&#305;kt&#305;s&#305; Testi";
 $locale['418'] = "Bu testte y&#252;z ifadelerini gizle";
 $locale['418a'] = "Test Mesaj&#305;";
 $locale['418b'] = "BB Kodu Test Etmek &#304;&#231;in L&#252;tfen Bir Mesaj Giriniz.";
-
-?>

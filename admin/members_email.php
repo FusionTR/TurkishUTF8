@@ -38,4 +38,3 @@ Sitemiz olan ".fusion_get_settings('sitename')." &#252;zerindeki hesab&#305;n&#3
 [REASON].\n
 E&#287;er bu konu ile ilgili detayl&#305; bilgiye ihtiya&#231; duyuyorsan&#305;z l&#252;tfen ".fusion_get_settings('siteemail')." adresi &#252;zerinden site y&#246;neticileri ile irtibata ge&#231;in.\n
 ".fusion_get_settings('siteusername');
-?>

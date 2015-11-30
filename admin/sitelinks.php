@@ -41,4 +41,3 @@ $locale['SL_0080'] = "Bu Linki Silmek &#304;stedi&#287;inizden Emin Misiniz?";
 // Error
 $locale['SL_0085'] = "L&#252;tfen Link Ad&#305; girin";
 $locale['SL_0086'] = "L&#252;tfen Link URL girin";
-?>

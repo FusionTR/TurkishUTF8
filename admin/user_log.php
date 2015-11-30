@@ -19,4 +19,3 @@ $locale['116'] = "Sil";
 $locale['117'] = "Se&#231;enekler";
 $locale['118'] = "%d g&#252;nden eski t&#252;m girdiler silinecek.";
 $locale['119'] = "Kullan&#305;c&#305; log ge&#231;mi&#351;i girdileri silindi";
-?>

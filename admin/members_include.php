@@ -35,4 +35,3 @@ $locale['susp112'] = "IP: ";
 $locale['susp113'] = "Kald&#305;r&#305;lma";
 $locale['susp114'] = "Ge&#231;ici Banlama Logu";
 $locale['susp115'] = "&#220;yeler";
-?>

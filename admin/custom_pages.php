@@ -43,4 +43,3 @@ $locale['457'] = $locale['455']." ve ".$locale['456'];
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Aktifle&#351;tir";
 $locale['462'] = "Pasifle&#351;tir";
-?>
